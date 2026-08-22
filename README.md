@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Pranjal
 
-<!--
-**pywithpranjal/pywithpranjal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer  | 👩‍💻 AI/ML Enthusiast
 
-Here are some ideas to get you started:
+Strong in Python Fundamentals. I love building practical projects and exploring AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Projects 
+
+- **Jarvis-AI Voice Assistant - Full PC Automation Assistant** - Controls entire PC by voice-opens Youtube channels, make reminders, Whatsapp messaging & more.
+- **QR Maps - Nearby Place Finder** - Scan a QR code to find nearby places instantly.
+- **Classic Snake Game** - Built the classic Nokia snake game from scratch with Python.
+- **Parity Checker & Logic Tools** - A clean logic-based tool built with core Python Concepts.
+
+ ### 🧠 Learning 
+AI/ML Fundamentals | Computer Vision(OpenCV) | DSA in Python
+
+### 🛠 Tech Stack
+Python | Git & GitHub | OpenCV | AI/ML
+
+### 🎯 Goal 
+Build 1 project every week and document my AI/ML journey here.
+
+Feel free to check my repositories and drop a ⭐
+
+
