@@ -7,6 +7,7 @@ Strong in Python Fundamentals. I love building practical projects and exploring 
 ### 🚀 My Projects 
 
 - **Jarvis-AI Voice Assistant - Full PC Automation Assistant** - Controls entire PC by voice-opens Youtube channels, make reminders, Whatsapp messaging & more.
+- **College Attendance System** - Digital Attendance System build using Python
 - **QR Maps - Nearby Place Finder** - Scan a QR code to find nearby places instantly.
 - **Classic Snake Game** - Built the classic Nokia snake game from scratch with Python.
 - **Parity Checker & Logic Tools** - A clean logic-based tool built with core Python Concepts.
